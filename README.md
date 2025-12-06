@@ -6,7 +6,7 @@ Este projeto demonstra a implementação de **Write-back** (escrita de dados) di
 ![Badge Power Automate](https://img.shields.io/badge/Power_Automate-Flow-blue?style=flat&logo=powerautomate)
 ![Badge Excel](https://img.shields.io/badge/Excel-Online-green?style=flat&logo=microsoft-excel)
 
-## 🎯 Objetivo do Projeto
+## 🎯 Objetivo do ProjetO
 
 Transformar um dashboard passivo de leitura em uma ferramenta ativa de gestão.
 - **Problema:** Analistas identificam falta de estoque no BI, mas precisam abrir outro sistema ou e-mail para pedir reposição.
